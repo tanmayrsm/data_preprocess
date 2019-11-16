@@ -1,0 +1,1 @@
+I chose 'price' attribute as my prediction target as it is a housing dataset hence people would be more enthusiast to know about the pricing range of the overall area .Also other attributes would contribute to this target prediction .Thus in my mpdel I predict house prices using other attributes.

@@ -1,0 +1,5 @@
+Geeks for geeks
+https://pandas.pydata.org/pandas-docs/stable/
+https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html
+https://pandas.pydata.org/
+https://pandas.pydata.org/pandas-docs/version/0.22/
